@@ -7,7 +7,7 @@
 
 2. Go to `localhost:3000/teachers` in your browser; why does this not work?
 
-#There is no corresponding get method for teachers itself.
+#There is no corresponding get method for teachers itself, it only will work after we have rendered it with information from our post.
 
 
 3. What type of request did your browser just perform?
